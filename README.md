@@ -89,7 +89,13 @@ https://drive.google.com/file/d/16TzQ3gQW56uCNHQEFIJ758q5c7DzpNAB/view?usp=drive
 
 #### **RFID Dispatch System (In Progress)**  
 - Low-budget dispatch automation  
-- For warehouse/industrial monitoring  
+- For warehouse/industrial monitoring
+
+####**Smart Parking System with Embedded systems**
+- Uses sensors and a microcontroller to detect real-time vehicle presence and identify free parking slots.
+- Displays available slots and automates parking management, reducing manual work and improving efficiency.
+
+
 
 ---
 
